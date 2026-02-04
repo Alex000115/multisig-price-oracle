@@ -1,0 +1,9 @@
+{
+  "name": "multisig-price-oracle",
+  "version": "1.0.0",
+  "description": "Chainlink-based price oracle integration",
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
